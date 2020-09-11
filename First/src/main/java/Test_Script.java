@@ -64,8 +64,8 @@ public class Test_Script {
 	public void afterAllTest() throws IOException
 	{
 		driver.quit();
-		Email email = new Email();
-		email.sendEmail();
+		//Email email = new Email();
+		//email.sendEmail();
 	}
 
 }

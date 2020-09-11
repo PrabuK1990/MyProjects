@@ -2,20 +2,20 @@
 <testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="25136" started-at="2020-08-02T17:32:30Z" finished-at="2020-08-02T17:32:55Z">
+  <suite name="Suite" duration-ms="71624" started-at="2020-09-11T17:18:56Z" finished-at="2020-09-11T17:20:08Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="25136" started-at="2020-08-02T17:32:30Z" finished-at="2020-08-02T17:32:55Z">
+    <test name="Test" duration-ms="71624" started-at="2020-09-11T17:18:56Z" finished-at="2020-09-11T17:20:08Z">
       <class name="Test_Script">
-        <test-method status="PASS" signature="beforeAllTest()[pri:0, instance:Test_Script@cc285f4]" name="beforeAllTest" is-config="true" duration-ms="7950" started-at="2020-08-02T23:02:30Z" finished-at="2020-08-02T23:02:38Z">
+        <test-method status="PASS" signature="beforeAllTest()[pri:0, instance:Test_Script@cc285f4]" name="beforeAllTest" is-config="true" duration-ms="48574" started-at="2020-09-11T22:48:56Z" finished-at="2020-09-11T22:49:45Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeAllTest -->
-        <test-method status="PASS" signature="beforeEachTest()[pri:0, instance:Test_Script@cc285f4]" name="beforeEachTest" is-config="true" duration-ms="2001" started-at="2020-08-02T23:02:38Z" finished-at="2020-08-02T23:02:40Z">
+        <test-method status="PASS" signature="beforeEachTest()[pri:0, instance:Test_Script@cc285f4]" name="beforeEachTest" is-config="true" duration-ms="2006" started-at="2020-09-11T22:49:45Z" finished-at="2020-09-11T22:49:47Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeEachTest -->
-        <test-method status="PASS" signature="testMethod(java.lang.String, java.lang.String)[pri:0, instance:Test_Script@cc285f4]" name="testMethod" duration-ms="339" started-at="2020-08-02T23:02:40Z" data-provider="dataProviderMethod" finished-at="2020-08-02T23:02:40Z">
+        <test-method status="PASS" signature="testMethod(java.lang.String, java.lang.String)[pri:0, instance:Test_Script@cc285f4]" name="testMethod" duration-ms="539" started-at="2020-09-11T22:49:47Z" data-provider="dataProviderMethod" finished-at="2020-09-11T22:49:47Z">
           <params>
             <param index="0">
               <value>
@@ -31,15 +31,15 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testMethod -->
-        <test-method status="PASS" signature="afterEachTest()[pri:0, instance:Test_Script@cc285f4]" name="afterEachTest" is-config="true" duration-ms="22" started-at="2020-08-02T23:02:40Z" finished-at="2020-08-02T23:02:40Z">
+        <test-method status="PASS" signature="afterEachTest()[pri:0, instance:Test_Script@cc285f4]" name="afterEachTest" is-config="true" duration-ms="20" started-at="2020-09-11T22:49:47Z" finished-at="2020-09-11T22:49:47Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterEachTest -->
-        <test-method status="PASS" signature="beforeEachTest()[pri:0, instance:Test_Script@cc285f4]" name="beforeEachTest" is-config="true" duration-ms="2002" started-at="2020-08-02T23:02:40Z" finished-at="2020-08-02T23:02:42Z">
+        <test-method status="PASS" signature="beforeEachTest()[pri:0, instance:Test_Script@cc285f4]" name="beforeEachTest" is-config="true" duration-ms="2004" started-at="2020-09-11T22:49:47Z" finished-at="2020-09-11T22:49:49Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeEachTest -->
-        <test-method status="PASS" signature="testMethod(java.lang.String, java.lang.String)[pri:0, instance:Test_Script@cc285f4]" name="testMethod" duration-ms="839" started-at="2020-08-02T23:02:42Z" data-provider="dataProviderMethod" finished-at="2020-08-02T23:02:43Z">
+        <test-method status="PASS" signature="testMethod(java.lang.String, java.lang.String)[pri:0, instance:Test_Script@cc285f4]" name="testMethod" duration-ms="303" started-at="2020-09-11T22:49:49Z" data-provider="dataProviderMethod" finished-at="2020-09-11T22:49:50Z">
           <params>
             <param index="0">
               <value>
@@ -55,15 +55,15 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testMethod -->
-        <test-method status="PASS" signature="afterEachTest()[pri:0, instance:Test_Script@cc285f4]" name="afterEachTest" is-config="true" duration-ms="59" started-at="2020-08-02T23:02:43Z" finished-at="2020-08-02T23:02:43Z">
+        <test-method status="PASS" signature="afterEachTest()[pri:0, instance:Test_Script@cc285f4]" name="afterEachTest" is-config="true" duration-ms="1062" started-at="2020-09-11T22:49:50Z" finished-at="2020-09-11T22:49:51Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterEachTest -->
-        <test-method status="PASS" signature="beforeEachTest()[pri:0, instance:Test_Script@cc285f4]" name="beforeEachTest" is-config="true" duration-ms="2000" started-at="2020-08-02T23:02:43Z" finished-at="2020-08-02T23:02:45Z">
+        <test-method status="PASS" signature="beforeEachTest()[pri:0, instance:Test_Script@cc285f4]" name="beforeEachTest" is-config="true" duration-ms="2001" started-at="2020-09-11T22:49:51Z" finished-at="2020-09-11T22:49:53Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeEachTest -->
-        <test-method status="PASS" signature="testMethod(java.lang.String, java.lang.String)[pri:0, instance:Test_Script@cc285f4]" name="testMethod" duration-ms="281" started-at="2020-08-02T23:02:45Z" data-provider="dataProviderMethod" finished-at="2020-08-02T23:02:45Z">
+        <test-method status="PASS" signature="testMethod(java.lang.String, java.lang.String)[pri:0, instance:Test_Script@cc285f4]" name="testMethod" duration-ms="245" started-at="2020-09-11T22:49:53Z" data-provider="dataProviderMethod" finished-at="2020-09-11T22:49:53Z">
           <params>
             <param index="0">
               <value>
@@ -79,15 +79,15 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testMethod -->
-        <test-method status="PASS" signature="afterEachTest()[pri:0, instance:Test_Script@cc285f4]" name="afterEachTest" is-config="true" duration-ms="9" started-at="2020-08-02T23:02:45Z" finished-at="2020-08-02T23:02:45Z">
+        <test-method status="PASS" signature="afterEachTest()[pri:0, instance:Test_Script@cc285f4]" name="afterEachTest" is-config="true" duration-ms="20" started-at="2020-09-11T22:49:53Z" finished-at="2020-09-11T22:49:53Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterEachTest -->
-        <test-method status="PASS" signature="beforeEachTest()[pri:0, instance:Test_Script@cc285f4]" name="beforeEachTest" is-config="true" duration-ms="2001" started-at="2020-08-02T23:02:45Z" finished-at="2020-08-02T23:02:47Z">
+        <test-method status="PASS" signature="beforeEachTest()[pri:0, instance:Test_Script@cc285f4]" name="beforeEachTest" is-config="true" duration-ms="2007" started-at="2020-09-11T22:49:53Z" finished-at="2020-09-11T22:49:55Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeEachTest -->
-        <test-method status="PASS" signature="testMethod(java.lang.String, java.lang.String)[pri:0, instance:Test_Script@cc285f4]" name="testMethod" duration-ms="265" started-at="2020-08-02T23:02:47Z" data-provider="dataProviderMethod" finished-at="2020-08-02T23:02:48Z">
+        <test-method status="PASS" signature="testMethod(java.lang.String, java.lang.String)[pri:0, instance:Test_Script@cc285f4]" name="testMethod" duration-ms="287" started-at="2020-09-11T22:49:55Z" data-provider="dataProviderMethod" finished-at="2020-09-11T22:49:55Z">
           <params>
             <param index="0">
               <value>
@@ -103,15 +103,15 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testMethod -->
-        <test-method status="PASS" signature="afterEachTest()[pri:0, instance:Test_Script@cc285f4]" name="afterEachTest" is-config="true" duration-ms="13" started-at="2020-08-02T23:02:48Z" finished-at="2020-08-02T23:02:48Z">
+        <test-method status="PASS" signature="afterEachTest()[pri:0, instance:Test_Script@cc285f4]" name="afterEachTest" is-config="true" duration-ms="1048" started-at="2020-09-11T22:49:55Z" finished-at="2020-09-11T22:49:56Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterEachTest -->
-        <test-method status="PASS" signature="afterAllTest()[pri:0, instance:Test_Script@cc285f4]" name="afterAllTest" is-config="true" duration-ms="7313" started-at="2020-08-02T23:02:48Z" finished-at="2020-08-02T23:02:55Z">
+        <test-method status="PASS" signature="afterAllTest()[pri:0, instance:Test_Script@cc285f4]" name="afterAllTest" is-config="true" duration-ms="11383" started-at="2020-09-11T22:49:56Z" finished-at="2020-09-11T22:50:08Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterAllTest -->
       </class> <!-- Test_Script -->
-    </test> <!-- Default test -->
-  </suite> <!-- Default suite -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
 </testng-results>
